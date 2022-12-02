@@ -3,7 +3,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuubson&theme=dark&hide_border=true" />
 </div>
 
-<br />
+<!-- <br />
 
 <div align="center">
 
@@ -18,4 +18,4 @@ CI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=flat&logo=circl
     
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-</div>
+</div> -->
